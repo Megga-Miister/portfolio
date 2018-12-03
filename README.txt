@@ -30,7 +30,6 @@ Credits:
 	Demo Images:
 		Felicia Simion (ineedchemicalx.deviantart.com)
 		Unsplash (unsplash.com)
-		Banner Photo by Thomas Tucker on Unsplash
 
 	Icons:
 		Font Awesome (fontawesome.io)
